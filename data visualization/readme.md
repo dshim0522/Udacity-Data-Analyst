@@ -4,7 +4,7 @@
 
 ## Dataset
 
-> Provide basic information about your dataset in this section. If you selected your own dataset, make sure you note the source of your data and summarize any data wrangling steps that you performed before you started your exploration.
+The data consisted of 73546 records of flights, for the US, over 5 years, from 1987 to 1992. As the original files were too big, I created some random samples for this learning study. There are time variables (mainly expected times and delays), numeric variables and text variables such are origins, destinations and carriers' names.
 
 
 ## Summary of Findings
