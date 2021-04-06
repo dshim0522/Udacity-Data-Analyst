@@ -1,15 +1,14 @@
-# Flight Data Visualization
+# Prosper Loan Data Exploration 
 ## by David Shim
 
 
 ## Dataset
 
-The data consisted of 73546 records of flights, for the US, over 5 years, from 1987 to 1992. As the original files were too big, I created some random samples for this learning study. There are time variables (mainly expected times and delays), numeric variables and text variables such are origins, destinations and carriers' names.
-
+> The dataset consists of 113000 loans with 81 variables including loan amount, borrower rate, term, occupation etc.
 
 ## Summary of Findings
 
-> Summarize all of your findings from your exploration here, whether you plan on bringing them into your explanatory presentation or not.
+> I want to know what attributes contributes to the borrower's Annual Percentage Rate (APR)
 
 
 ## Key Insights for Presentation
